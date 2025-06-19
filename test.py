@@ -17,7 +17,7 @@ conversation = [
     {
         "role": "User",
         "content": "<image_placeholder>Transcribe the writing in this image as precisely as possible.",
-        "images": ["./20250107_Jarett_John_Steven_Sync.pdf"]
+        "images": ["./20250107_Jarett_John_Steven_Sync.jpg"]
     },
     {
         "role": "Assistant",
